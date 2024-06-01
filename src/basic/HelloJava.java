@@ -1,4 +1,4 @@
-package Java_Basic;
+package basic;
 
 public class HelloJava {
 //    프로그램 시작점
